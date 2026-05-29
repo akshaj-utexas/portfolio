@@ -15,9 +15,9 @@ title: Academic Portfolio
 </script>
 
 <!-- INTRO BLOCK: Headshot centered vertically with the text column -->
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 30px; margin-bottom: 35px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 34px; margin-bottom: 35px;">
     <!-- Headshot Column -->
-    <div style="flex-shrink: 0;">
+    <div style="flex-shrink: 0; text-align: center;">
         <img src="assets/headshot.png" alt="Akshaj Murhekar" style="width: 300px; max-width: 100%; border-radius: 8px;">
     </div>
     
