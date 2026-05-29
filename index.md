@@ -3,29 +3,43 @@ layout: default
 title: Akshaj Murhekar - Academic Portfolio
 ---
 
-<!-- INTRO BLOCK: Headshot centered vertically with the text column -->
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 30px; margin-bottom: 35px;">
-    <!-- Headshot Column -->
-    <div style="flex-shrink: 0;">
-        <img src="assets/headshot.png" alt="Akshaj Murhekar" style="width: 220px; max-width: 100%; border-radius: 8px;">
+## Education
+
+<!-- UT AUSTIN ENTRY -->
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start; gap: 24px; margin-bottom: 30px;">
+    <div style="flex-shrink: 0; width: 130px; display: flex; justify-content: flex-start; padding-top: 4px;">
+        <img src="assets/ut-austin.svg" alt="UT Austin Logo" style="width: 120px; height: auto;">
     </div>
-    
-    <!-- Content Column that expands to fill the right side -->
     <div style="flex: 1; min-width: 280px; line-height: 1.6;">
-        <span style="font-size: 1.25em; font-weight: 600; color: #24292f;">Graduate Research Assistant, UT Austin</span><br>
-        <span style="color: #57606a; font-weight: 500;">PhD start: Fall 2027</span>
-        
-        <div style="margin-top: 12px; margin-bottom: 18px;">
-            <a href="https://scholar.google.com/citations?user=iObTPf8AAAAJ" style="font-weight: 500;">Google Scholar</a> &middot; 
-            <a href="https://linkedin.com/in/akshaj-murhekar" style="font-weight: 500;">LinkedIn</a> &middot; 
-            <a href="https://github.com/akshaj02" style="font-weight: 500;">GitHub</a> &middot; 
-            <a href="mailto:akshaj.murhekar@utexas.edu" style="font-weight: 500;">Email</a>
+        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; margin-bottom: 4px;">
+            <span style="font-size: 1.15em; font-weight: 600; color: #24292f;">The University of Texas at Austin</span>
+            <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2024 &ndash; 2026</span>
         </div>
-        
-        <!-- Bio flows naturally here -->
-        <p style="margin: 0; color: #24292f;">
-            I am a graduate researcher focused on non-invasive brain-computer interfaces and generative AI, with experience building privacy-preserving EEG-to-text systems, neuro-symbolic decoding pipelines, and efficient neural retrieval frameworks. My work emphasizes lightweight architectures that align neural signals with large language models while keeping sensitive data local.
-        </p>
+        <div style="color: #24292f; margin-bottom: 6px;">
+            <span style="font-weight: 500;">M.S. in Information Science</span> &middot; <span style="color: #57606a;">GPA: 3.7/4.0</span>
+        </div>
+        <div style="font-size: 0.95em; color: #57606a;">
+            <strong>Specialization:</strong> Applied Machine Learning and Deep Learning
+        </div>
+        <div style="font-size: 0.95em; color: #57606a;">
+            <strong>Thesis Advisors:</strong> <a href="https://abhijitmishra.github.io/" target="_blank">Dr. Abhijit Mishra</a>, <a href="https://ischool.utexas.edu/profiles/shounak-roychowdhury" target="_blank">Dr. Shounak Roychowdhury</a>
+        </div>
+    </div>
+</div>
+
+<!-- UT ARLINGTON ENTRY -->
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start; gap: 24px; margin-bottom: 30px;">
+    <div style="flex-shrink: 0; width: 130px; display: flex; justify-content: flex-start; padding-top: 4px;">
+        <img src="assets/ut-arlington.svg" alt="UT Arlington Logo" style="width: 120px; height: auto;">
+    </div>
+    <div style="flex: 1; min-width: 280px; line-height: 1.6;">
+        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; margin-bottom: 4px;">
+            <span style="font-size: 1.15em; font-weight: 600; color: #24292f;">The University of Texas at Arlington</span>
+            <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2020 &ndash; 2024</span>
+        </div>
+        <div style="color: #24292f;">
+            <span style="font-weight: 500;">B.S. in Computer Science</span> &middot; <span style="color: #57606a;">GPA: 3.55/4.0</span>
+        </div>
     </div>
 </div>
 
