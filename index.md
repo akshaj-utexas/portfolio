@@ -126,11 +126,44 @@ title: Akshaj Murhekar - Academic Portfolio
     </div>
 </div>
 
-## Selected Projects / Research Experience
-- Graduate Research Assistant, UT Austin (Aug 2025–Present): Building a high-fidelity EEG-to-text decoding framework leveraging LLMs for non-invasive neural signal translation.
-- Undergraduate Research Assistant, UTA Research Institute (2023–2024): Engineered data post-processing pipelines for autonomous drone systems used in large-scale 3D terrain mapping.
-- NSF REU Research Fellow, UT Arlington (2023–2024): Built an automated text-to-video pipeline for synthetic educational content with synchronized voiceover and visuals.
-- NSF REU Research Fellow, UT Arlington (2022–2023): Developed an autonomous person-following drone for the visually impaired with on-device GAN-based audio alerts.
-- Scientific Sycophancy Benchmark: Built an evaluation pipeline exposing an 85% failure rate in frontier LLMs, motivating verification-aware RAG.
-- KV Cache Optimization: Reduced Llama-3 inference memory usage by ~50% using a PyTorch-based cache optimization method.
-- Audio-Visual Source Separation: Designed a U-Net with visual conditioning for target source separation via latent modulation.
+## Selected Projects
+
+<ul style="line-height: 1.7; padding-left: 20px; color: #24292f; margin-bottom: 35px;">
+    <li style="margin-bottom: 8px;">
+        <strong>Scientific Sycophancy Benchmark:</strong> Engineered an evaluation pipeline uncovering an 85% failure rate where frontier LLMs prioritize helpfulness over physical laws, motivating a verification-aware RAG framework.
+    </li>
+    <li style="margin-bottom: 8px;">
+        <strong>KV Cache Optimization:</strong> Engineered a PyTorch-based algorithm to reduce Llama-3 system memory usage by 50% during inference.
+    </li>
+    <li style="margin-bottom: 8px;">
+        <strong>Audio-Visual Source Separation:</strong> Architected a U-Net with visual conditioning to separate target audio sources from mixtures via latent space modulation.
+    </li>
+    <li style="margin-bottom: 8px;">
+        <strong>LLM Fine-tuning (Review Feedback):</strong> Fine-tuned Qwen2.5-1.5B using PEFT and Unsloth on a 46M-token synthetic dataset for high-throughput inference.
+    </li>
+</ul>
+
+## Awards & Honors
+
+<ul style="line-height: 1.7; padding-left: 20px; color: #24292f; margin-bottom: 35px;">
+    <li style="margin-bottom: 8px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;">
+        <span><strong>Presidential Scholarship</strong> &middot; Full-Tuition Merit Award (\$108,000)</span>
+        <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2020 &ndash; 2024</span>
+    </li>
+    <li style="margin-bottom: 8px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;">
+        <span><strong>NIH Research Grant</strong> &middot; National Institutes of Health</span>
+        <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2023 &ndash; 2024</span>
+    </li>
+    <li style="margin-bottom: 8px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;">
+        <span><strong>NSF REU Award (2x Recipient)</strong> &middot; National Science Foundation</span>
+        <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2022 &ndash; 2024</span>
+    </li>
+    <li style="margin-bottom: 8px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;">
+        <span><strong>Undergraduate Research Appreciation Award</strong> &middot; UTARI</span>
+        <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2024</span>
+    </li>
+    <li style="margin-bottom: 8px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;">
+        <span><strong>Undergraduate Research Rank 3</strong> &middot; College of Engineering</span>
+        <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2023</span>
+    </li>
+</ul>
