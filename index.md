@@ -24,7 +24,7 @@ title: Akshaj Murhekar - Academic Portfolio
         
         <!-- Clean, human-readable bio -->
         <p style="margin: 0; color: #24292f;">
-            I am a graduate researcher at UT Austin with a core focus on language modeling, representation learning, and multimodal deep learning. During my time as an M.S. student, I worked with Dr. Abhijit Mishra on challenging problems at the intersection of language models and neural signal processing. My research focused on leveraging the in-context learning capabilities of frozen backbone LLMs. Specifically, I developed privacy-preserving neuro-symbolic decoding pipelines and efficient retrieval frameworks designed to bridge the gap between brain activity and text, translating electroencephalography (EEG) signals directly into natural language.
+            I am a graduate researcher at UT Austin with a core focus on language modeling, representation learning, and multimodal deep learning. During my time as an M.S. student, I worked with Dr. Abhijit Mishra on challenging problems at the intersection of language models and neural signal processing. My research focused on leveraging in-context learning capabilities of frozen backbone LLMs. Specifically, I developed privacy-preserving neuro-symbolic decoding pipelines and efficient retrieval frameworks designed to bridge the gap between brain activity and text, translating electroencephalography (EEG) signals directly into natural language.
         </p>
     </div>
 </div>
