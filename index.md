@@ -178,3 +178,13 @@ title: Academic Portfolio
         </div>
     </li>
 </ul>
+
+<style>
+    /* Disables the self-referencing click link on your name */
+    header a, .site-title, h1 a, a.site-title {
+        pointer-events: none !important;
+        cursor: default !important;
+        text-decoration: none !important;
+        color: #24292f !important;
+    }
+</style>
