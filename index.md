@@ -3,9 +3,9 @@ layout: default
 title: Akshaj Murhekar - Academic Portfolio
 ---
 
-Graduate Research Assistant, UT Austin  
-PhD start: Fall 2027  
-[Google Scholar](https://scholar.google.com/citations?user=iObTPf8AAAAJ) | [LinkedIn](https://linkedin.com/in/akshaj-murhekar) | [GitHub](https://github.com/akshaj02) | [Email](mailto:akshaj.murhekar@utexas.edu)
+| | |
+| --- | --- |
+| # Akshaj Murhekar<br>Graduate Research Assistant, UT Austin<br>PhD start: Fall 2027<br>[Google Scholar](https://scholar.google.com/citations?user=iObTPf8AAAAJ) \| [LinkedIn](https://linkedin.com/in/akshaj-murhekar) \| [GitHub](https://github.com/akshaj02) \| [Email](mailto:akshaj.murhekar@utexas.edu) | ![Headshot](assets/headshot.png) |
 
 ## About Me / Bio
 I am a graduate researcher focused on non-invasive brain-computer interfaces and generative AI, with experience building privacy-preserving EEG-to-text systems, neuro-symbolic decoding pipelines, and efficient neural retrieval frameworks. My work emphasizes lightweight architectures that align neural signals with large language models while keeping sensitive data local.
@@ -19,13 +19,18 @@ I am a graduate researcher focused on non-invasive brain-computer interfaces and
 - Privacy-preserving BCI pipelines
 
 ## Publications
-- **A. Murhekar**, A. Mishra. (2026). *SYNAPSE: Neuro-Symbolic Visual Thought-to-Text Decoding via Topological Semantic Denoising*. arXiv. [[arXiv Abstract](https://arxiv.org/abs/2605.27790)] [[PDF](https://arxiv.org/pdf/2605.27790.pdf)] [[Code](#)]
-- **A. Murhekar**, C. Liu, A. Mishra, S. Roychowdhury, J. Gwizdka. (2026). *SENSE: Efficient EEG-to-Text via Privacy-Preserving Semantic Retrieval*. arXiv. [[arXiv Abstract](https://arxiv.org/abs/2603.17109)] [[PDF](https://arxiv.org/pdf/2603.17109.pdf)] [[Code](#)]
-- S. Shukla, J. Torres, **A. Murhekar**, C. Liu, A. Mishra, J. Gwizdka, S. Roychowdhury. (2025). *A Survey on Bridging EEG Signals and Generative AI*. arXiv. [[arXiv Abstract](https://arxiv.org/abs/2502.12048)] [[PDF](https://arxiv.org/pdf/2502.12048.pdf)] [[Code](#)]
+1. **A. Murhekar**, A. Mishra. (2026). *SYNAPSE: Neuro-Symbolic Visual Thought-to-Text Decoding via Topological Semantic Denoising*. arXiv.  
+[[arXiv Abstract](https://arxiv.org/abs/2605.27790)] [[PDF](https://arxiv.org/pdf/2605.27790.pdf)] [[Code](#)]
+2. **A. Murhekar**, C. Liu, A. Mishra, S. Roychowdhury, J. Gwizdka. (2026). *SENSE: Efficient EEG-to-Text via Privacy-Preserving Semantic Retrieval*. arXiv.  
+[[arXiv Abstract](https://arxiv.org/abs/2603.17109)] [[PDF](https://arxiv.org/pdf/2603.17109.pdf)] [[Code](#)]
+3. S. Shukla, J. Torres, **A. Murhekar**, C. Liu, A. Mishra, J. Gwizdka, S. Roychowdhury. (2025). *A Survey on Bridging EEG Signals and Generative AI*. arXiv.  
+[[arXiv Abstract](https://arxiv.org/abs/2502.12048)] [[PDF](https://arxiv.org/pdf/2502.12048.pdf)] [[Code](#)]
 
 ## Education
-- 2024–2026: M.S. in Information Science, The University of Texas at Austin (GPA: 3.7/4.0). Specialization in Applied Machine Learning and Deep Learning.
-- 2020–2024: B.S. in Computer Science, The University of Texas at Arlington (GPA: 3.55/4.0).
+| | |
+| --- | --- |
+| ![UT Austin Logo](assets/ut-austin.svg) | **2024–2026: M.S. in Information Science, The University of Texas at Austin** (GPA: 3.7/4.0)<br>Specialization: Applied Machine Learning and Deep Learning<br>Thesis Advisors: Dr. Abhijit Mishra, Dr. Shounak Roychowdhury |
+| ![UT Arlington Logo](assets/ut-arlington.svg) | **2020–2024: B.S. in Computer Science, The University of Texas at Arlington** (GPA: 3.55/4.0) |
 
 ## Selected Projects / Research Experience
 - Graduate Research Assistant, UT Austin (Aug 2025–Present): Building a high-fidelity EEG-to-text decoding framework leveraging LLMs for non-invasive neural signal translation.
