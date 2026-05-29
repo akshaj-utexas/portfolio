@@ -40,24 +40,30 @@ I am a graduate researcher focused on non-invasive brain-computer interfaces and
 ## Education
 
 <!-- UT AUSTIN ENTRY -->
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 20px; margin-bottom: 25px;">
-    <div style="flex-shrink: 0; width: 80px; display: flex; justify-content: center;">
-        <img src="assets/ut-austin.svg" alt="UT Austin Logo" style="width: 70px; max-height: 70px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start; gap: 24px; margin-bottom: 30px;">
+    <div style="flex-shrink: 0; width: 130px; display: flex; justify-content: flex-start; padding-top: 4px;">
+        <img src="assets/ut-austin.svg" alt="UT Austin Logo" style="width: 120px; height: auto;">
     </div>
-    <div style="flex: 1; min-width: 280px;">
-        <strong>2024–2026: M.S. in Information Science, The University of Texas at Austin</strong> (GPA: 3.7/4.0)<br>
-        <span style="color: #586069;">Specialization: Applied Machine Learning and Deep Learning<br>
-        Thesis Advisors: Dr. Abhijit Mishra, Dr. Shounak Roychowdhury</span>
+    <div style="flex: 1; min-width: 280px; line-height: 1.5;">
+        <span style="font-size: 1.1em; font-weight: 600; color: #24292f;">The University of Texas at Austin</span><br>
+        <span style="font-weight: 500; color: #24292f;">M.S. in Information Science</span> &middot; <span style="color: #57606a; font-size: 0.95em;">GPA: 3.7/4.0</span><br>
+        <span style="font-size: 0.95em; color: #57606a;">2024 – 2026</span><br>
+        <span style="font-size: 0.95em; color: #57606a;">
+            <strong>Specialization:</strong> Applied Machine Learning and Deep Learning<br>
+            <strong>Thesis Advisors:</strong> Dr. Abhijit Mishra, Dr. Shounak Roychowdhury
+        </span>
     </div>
 </div>
 
 <!-- UT ARLINGTON ENTRY -->
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 20px; margin-bottom: 25px;">
-    <div style="flex-shrink: 0; width: 80px; display: flex; justify-content: center;">
-        <img src="assets/ut-arlington.svg" alt="UT Arlington Logo" style="width: 70px; max-height: 70px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start; gap: 24px; margin-bottom: 30px;">
+    <div style="flex-shrink: 0; width: 130px; display: flex; justify-content: flex-start; padding-top: 4px;">
+        <img src="assets/ut-arlington.svg" alt="UT Arlington Logo" style="width: 120px; height: auto;">
     </div>
-    <div style="flex: 1; min-width: 280px;">
-        <strong>2020–2024: B.S. in Computer Science, The University of Texas at Arlington</strong> (GPA: 3.55/4.0)
+    <div style="flex: 1; min-width: 280px; line-height: 1.5;">
+        <span style="font-size: 1.1em; font-weight: 600; color: #24292f;">The University of Texas at Arlington</span><br>
+        <span style="font-weight: 500; color: #24292f;">B.S. in Computer Science</span> &middot; <span style="color: #57606a; font-size: 0.95em;">GPA: 3.55/4.0</span><br>
+        <span style="font-size: 0.95em; color: #57606a;">2020 – 2024</span>
     </div>
 </div>
 
