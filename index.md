@@ -3,7 +3,6 @@ layout: default
 title: Akshaj Murhekar - Academic Portfolio
 ---
 
-# Akshaj Murhekar
 Graduate Research Assistant, UT Austin  
 PhD start: Fall 2027  
 [Google Scholar](https://scholar.google.com/citations?user=iObTPf8AAAAJ) | [LinkedIn](https://linkedin.com/in/akshaj-murhekar) | [GitHub](https://github.com/akshaj02) | [Email](mailto:akshaj.murhekar@utexas.edu)
