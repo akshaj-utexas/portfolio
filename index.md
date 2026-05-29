@@ -3,8 +3,8 @@ layout: default
 title: Akshaj Murhekar - Academic Portfolio
 ---
 
-<!-- INTRO BLOCK: Headshot on left, expanding details and bio on the right -->
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start; gap: 30px; margin-bottom: 35px;">
+<!-- INTRO BLOCK: Headshot centered vertically with the text column -->
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 30px; margin-bottom: 35px;">
     <!-- Headshot Column -->
     <div style="flex-shrink: 0;">
         <img src="assets/headshot.png" alt="Akshaj Murhekar" style="width: 220px; max-width: 100%; border-radius: 8px;">
@@ -22,7 +22,7 @@ title: Akshaj Murhekar - Academic Portfolio
             <a href="mailto:akshaj.murhekar@utexas.edu" style="font-weight: 500;">Email</a>
         </div>
         
-        <!-- Bio flows naturally here without a clunky markdown header -->
+        <!-- Bio flows naturally here -->
         <p style="margin: 0; color: #24292f;">
             I am a graduate researcher focused on non-invasive brain-computer interfaces and generative AI, with experience building privacy-preserving EEG-to-text systems, neuro-symbolic decoding pipelines, and efficient neural retrieval frameworks. My work emphasizes lightweight architectures that align neural signals with large language models while keeping sensitive data local.
         </p>
