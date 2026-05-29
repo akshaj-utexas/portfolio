@@ -3,6 +3,8 @@ layout: default
 title: Academic Portfolio
 ---
 
+<link rel="icon" type="image/png" href="https://images.utexas.edu/branding/images/longhorn-icon.png">
+
 <!-- INTRO BLOCK: Headshot centered vertically with the text column -->
 <!-- INTRO BLOCK: Headshot centered vertically with the text column -->
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 30px; margin-bottom: 35px;">
