@@ -18,7 +18,7 @@ title: Academic Portfolio
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 30px; margin-bottom: 35px;">
     <!-- Headshot Column -->
     <div style="flex-shrink: 0;">
-        <img src="assets/headshot.png" alt="Akshaj Murhekar" style="width: 220px; max-width: 100%; border-radius: 8px;">
+        <img src="assets/headshot.png" alt="Akshaj Murhekar" style="width: 280px; max-width: 100%; border-radius: 8px;">
     </div>
     
     <!-- Content Column that expands to fill the right side -->
