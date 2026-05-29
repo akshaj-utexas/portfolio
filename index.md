@@ -3,23 +3,39 @@ layout: default
 title: Akshaj Murhekar - Academic Portfolio
 ---
 
-<!-- HEADER SECTION: Image on left, expanding text on right -->
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start; gap: 25px; margin-bottom: 35px;">
+<!-- INTRO BLOCK: Headshot on left, expanding details and bio on the right -->
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start; gap: 30px; margin-bottom: 35px;">
+    <!-- Headshot Column -->
     <div style="flex-shrink: 0;">
         <img src="assets/headshot.png" alt="Akshaj Murhekar" style="width: 220px; max-width: 100%; border-radius: 8px;">
     </div>
-    <div style="flex: 1; min-width: 280px; padding-top: 5px;">
-        <span style="font-size: 1.15em; font-weight: 500; color: #24292e;">Graduate Research Assistant, UT Austin</span><br>
-        <span style="color: #586069;">PhD start: Fall 2027</span><br><br>
-        <a href="https://scholar.google.com/citations?user=iObTPf8AAAAJ" style="font-weight: 500;">Google Scholar</a> | 
-        <a href="https://linkedin.com/in/akshaj-murhekar" style="font-weight: 500;">LinkedIn</a> | 
-        <a href="https://github.com/akshaj02" style="font-weight: 500;">GitHub</a> | 
-        <a href="mailto:akshaj.murhekar@utexas.edu" style="font-weight: 500;">Email</a>
+    
+    <!-- Content Column that expands to fill the right side -->
+    <div style="flex: 1; min-width: 280px; line-height: 1.6;">
+        <span style="font-size: 1.25em; font-weight: 600; color: #24292f;">Graduate Research Assistant, UT Austin</span><br>
+        <span style="color: #57606a; font-weight: 500;">PhD start: Fall 2027</span>
+        
+        <div style="margin-top: 12px; margin-bottom: 18px;">
+            <a href="https://scholar.google.com/citations?user=iObTPf8AAAAJ" style="font-weight: 500;">Google Scholar</a> &middot; 
+            <a href="https://linkedin.com/in/akshaj-murhekar" style="font-weight: 500;">LinkedIn</a> &middot; 
+            <a href="https://github.com/akshaj02" style="font-weight: 500;">GitHub</a> &middot; 
+            <a href="mailto:akshaj.murhekar@utexas.edu" style="font-weight: 500;">Email</a>
+        </div>
+        
+        <!-- Bio flows naturally here without a clunky markdown header -->
+        <p style="margin: 0; color: #24292f;">
+            I am a graduate researcher focused on non-invasive brain-computer interfaces and generative AI, with experience building privacy-preserving EEG-to-text systems, neuro-symbolic decoding pipelines, and efficient neural retrieval frameworks. My work emphasizes lightweight architectures that align neural signals with large language models while keeping sensitive data local.
+        </p>
     </div>
 </div>
 
-## About Me / Bio
-I am a graduate researcher focused on non-invasive brain-computer interfaces and generative AI, with experience building privacy-preserving EEG-to-text systems, neuro-symbolic decoding pipelines, and efficient neural retrieval frameworks. My work emphasizes lightweight architectures that align neural signals with large language models while keeping sensitive data local.
+## Research Interests
+- Human-centered machine learning
+- Neural decoding (EEG-to-text)
+- Neuro-symbolic learning
+- Sparse and efficient model architectures
+- Multimodal deep learning
+- Privacy-preserving BCI pipelines
 
 ## Research Interests
 - Human-centered machine learning
