@@ -16,9 +16,9 @@ title: Academic Portfolio
         <span style="font-size: 1.3em; font-weight: 600; color: #24292f;">Graduate Research Assistant, UT Austin</span>
         
         <div style="margin-top: 8px; margin-bottom: 16px;">
-            <a href="https://scholar.google.com/citations?user=iObTPf8AAAAJ" style="font-weight: 500;">Google Scholar</a> &middot; 
-            <a href="https://linkedin.com/in/akshaj-murhekar" style="font-weight: 500;">LinkedIn</a> &middot; 
-            <a href="https://github.com/akshaj02" style="font-weight: 500;">GitHub</a> &middot; 
+            <a href="https://scholar.google.com/citations?user=iObTPf8AAAAJ" target="_blank" style="font-weight: 500;">Google Scholar</a> &middot; 
+            <a href="https://linkedin.com/in/akshaj-murhekar" target="_blank" style="font-weight: 500;">LinkedIn</a> &middot; 
+            <a href="https://github.com/akshaj02" target="_blank" style="font-weight: 500;">GitHub</a> &middot; 
             <a href="mailto:akshaj.murhekar@utexas.edu" style="font-weight: 500;">Email</a>
         </div>
         
@@ -52,7 +52,7 @@ title: Academic Portfolio
         <div style="display: flex; flex-wrap: wrap; gap: 8px; font-size: 0.85em;">
             <a href="https://arxiv.org/abs/2605.27790" target="_blank" style="padding: 4px 10px; background-color: #f1f2f4; color: #0366d6; border-radius: 6px; text-decoration: none; font-weight: 500; border: 1px solid #e1e4e8;">arXiv Abstract</a>
             <a href="https://arxiv.org/pdf/2605.27790.pdf" target="_blank" style="padding: 4px 10px; background-color: #f1f2f4; color: #0366d6; border-radius: 6px; text-decoration: none; font-weight: 500; border: 1px solid #e1e4e8;">PDF</a>
-            <a href="#" target="_blank" style="padding: 4px 10px; background-color: #f1f2f4; color: #0366d6; border-radius: 6px; text-decoration: none; font-weight: 500; border: 1px solid #e1e4e8;">Code</a>
+            <a href="https://github.com/akshaj-utexas/neuro-symbolic-eeg-to-text" target="_blank" style="padding: 4px 10px; background-color: #f1f2f4; color: #0366d6; border-radius: 6px; text-decoration: none; font-weight: 500; border: 1px solid #e1e4e8;">Code</a>
         </div>
     </li>
 
@@ -67,7 +67,7 @@ title: Academic Portfolio
         <div style="display: flex; flex-wrap: wrap; gap: 8px; font-size: 0.85em;">
             <a href="https://arxiv.org/abs/2603.17109" target="_blank" style="padding: 4px 10px; background-color: #f1f2f4; color: #0366d6; border-radius: 6px; text-decoration: none; font-weight: 500; border: 1px solid #e1e4e8;">arXiv Abstract</a>
             <a href="https://arxiv.org/pdf/2603.17109.pdf" target="_blank" style="padding: 4px 10px; background-color: #f1f2f4; color: #0366d6; border-radius: 6px; text-decoration: none; font-weight: 500; border: 1px solid #e1e4e8;">PDF</a>
-            <a href="#" target="_blank" style="padding: 4px 10px; background-color: #f1f2f4; color: #0366d6; border-radius: 6px; text-decoration: none; font-weight: 500; border: 1px solid #e1e4e8;">Code</a>
+            <a href="https://github.com/akshaj-utexas/efficient-eeg-2-text" target="_blank" style="padding: 4px 10px; background-color: #f1f2f4; color: #0366d6; border-radius: 6px; text-decoration: none; font-weight: 500; border: 1px solid #e1e4e8;">Code</a>
         </div>
     </li>
 
