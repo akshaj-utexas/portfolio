@@ -37,14 +37,6 @@ title: Akshaj Murhekar - Academic Portfolio
 - Multimodal deep learning
 - Privacy-preserving BCI pipelines
 
-## Research Interests
-- Human-centered machine learning
-- Neural decoding (EEG-to-text)
-- Neuro-symbolic learning
-- Sparse and efficient model architectures
-- Multimodal deep learning
-- Privacy-preserving BCI pipelines
-
 ## Publications
 
 <ol style="padding-left: 20px; margin: 0;">
@@ -141,8 +133,3 @@ title: Akshaj Murhekar - Academic Portfolio
 - Scientific Sycophancy Benchmark: Built an evaluation pipeline exposing an 85% failure rate in frontier LLMs, motivating verification-aware RAG.
 - KV Cache Optimization: Reduced Llama-3 inference memory usage by ~50% using a PyTorch-based cache optimization method.
 - Audio-Visual Source Separation: Designed a U-Net with visual conditioning for target source separation via latent modulation.
-
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshaj02&label=Views&style=flat-square&color=0e75b6" alt="Views">
-</p>
