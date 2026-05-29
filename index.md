@@ -12,8 +12,8 @@ title: Akshaj Murhekar - Academic Portfolio
     
     <!-- Content Column that expands to fill the right side -->
     <div style="flex: 1; min-width: 280px; line-height: 1.6;">
-        <span style="font-size: 1.25em; font-weight: 600; color: #24292f;">Graduate Research Assistant, UT Austin</span><br>
-        <span style="color: #57606a; font-weight: 500;">PhD start: Fall 2027</span>
+        <span style="font-size: 1.25em; font-weight: 600; color: #24292f;">M.S. in Information Science, UT Austin</span><br>
+        <span style="color: #57606a; font-weight: 500;">Specializing in Applied Machine Learning & Deep Learning</span>
         
         <div style="margin-top: 12px; margin-bottom: 18px;">
             <a href="https://scholar.google.com/citations?user=iObTPf8AAAAJ" style="font-weight: 500;">Google Scholar</a> &middot; 
@@ -22,9 +22,9 @@ title: Akshaj Murhekar - Academic Portfolio
             <a href="mailto:akshaj.murhekar@utexas.edu" style="font-weight: 500;">Email</a>
         </div>
         
-        <!-- Bio flows naturally here -->
+        <!-- Bio reframed around core NLP and Language Modeling -->
         <p style="margin: 0; color: #24292f;">
-            I am a graduate researcher focused on non-invasive brain-computer interfaces and generative AI, with experience building privacy-preserving EEG-to-text systems, neuro-symbolic decoding pipelines, and efficient neural retrieval frameworks. My work emphasizes lightweight architectures that align neural signals with large language models while keeping sensitive data local.
+            I am an NLP researcher focused on language modeling, representation learning, and multimodal deep learning. My work explores how frontier large language models can align with, decode, and retrieve information from complex, non-textual sequences. As a graduate researcher at UT Austin, I have investigated these core sequence-alignment challenges within the non-invasive brain-computer interface domain—building privacy-preserving neuro-symbolic and retrieval-augmented pipelines that bridge neural features with generative text space. 
         </p>
     </div>
 </div>
