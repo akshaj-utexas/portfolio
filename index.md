@@ -66,7 +66,7 @@ title: Akshaj Murhekar - Academic Portfolio
         <span style="font-size: 0.95em; color: #57606a;">2024 – 2026</span><br>
         <span style="font-size: 0.95em; color: #57606a;">
             <strong>Specialization:</strong> Applied Machine Learning and Deep Learning<br>
-            <strong>Thesis Advisors:</strong> Dr. Abhijit Mishra, Dr. Shounak Roychowdhury
+            <strong>Thesis Advisors:</strong> <a href="https://abhijitmishra.github.io/" target="_blank">Dr. Abhijit Mishra</a>, <a href="https://ischool.utexas.edu/profiles/shounak-roychowdhury" target="_blank">Dr. Shounak Roychowdhury</a>
         </span>
     </div>
 </div>
