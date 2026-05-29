@@ -146,24 +146,39 @@ title: Akshaj Murhekar - Academic Portfolio
 ## Awards & Honors
 
 <ul style="line-height: 1.7; padding-left: 20px; color: #24292f; margin-bottom: 35px;">
-    <li style="margin-bottom: 8px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;">
-        <span><strong>Presidential Scholarship</strong> &middot; Full-Tuition Merit Award (\$108,000)</span>
-        <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2020 &ndash; 2024</span>
+    <!-- Bullet 1 -->
+    <li style="margin-bottom: 8px;">
+        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;">
+            <span><strong>Presidential Scholarship</strong> &middot; Full-Tuition Merit Award (\$108,000)</span>
+            <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2020 &ndash; 2024</span>
+        </div>
     </li>
-    <li style="margin-bottom: 8px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;">
-        <span><strong>NIH Research Grant</strong> &middot; National Institutes of Health</span>
-        <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2023 &ndash; 2024</span>
+    <!-- Bullet 2 -->
+    <li style="margin-bottom: 8px;">
+        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;">
+            <span><strong>NIH Research Grant</strong> &middot; National Institutes of Health</span>
+            <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2023 &ndash; 2024</span>
+        </div>
     </li>
-    <li style="margin-bottom: 8px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;">
-        <span><strong>NSF REU Award (2x Recipient)</strong> &middot; National Science Foundation</span>
-        <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2022 &ndash; 2024</span>
+    <!-- Bullet 3 -->
+    <li style="margin-bottom: 8px;">
+        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;">
+            <span><strong>NSF REU Award (2x Recipient)</strong> &middot; National Science Foundation</span>
+            <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2022 &ndash; 2024</span>
+        </div>
     </li>
-    <li style="margin-bottom: 8px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;">
-        <span><strong>Undergraduate Research Appreciation Award</strong> &middot; UTARI</span>
-        <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2024</span>
+    <!-- Bullet 4 -->
+    <li style="margin-bottom: 8px;">
+        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;">
+            <span><strong>Undergraduate Research Appreciation Award</strong> &middot; UTARI</span>
+            <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2024</span>
+        </div>
     </li>
-    <li style="margin-bottom: 8px; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;">
-        <span><strong>Undergraduate Research Rank 3</strong> &middot; College of Engineering</span>
-        <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2023</span>
+    <!-- Bullet 5 -->
+    <li style="margin-bottom: 8px;">
+        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;">
+            <span><strong>Undergraduate Research Rank 3</strong> &middot; College of Engineering, UT Arlington</span>
+            <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2023</span>
+        </div>
     </li>
 </ul>
