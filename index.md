@@ -120,8 +120,11 @@ title: Academic Portfolio
             <span style="font-size: 1.15em; font-weight: 600; color: #24292f;">The University of Texas at Arlington</span>
             <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2020 &ndash; 2024</span>
         </div>
-        <div style="color: #24292f;">
-            <span style="font-weight: 500;">B.S. in Computer Science</span>
+        <div style="color: #24292f; margin-bottom: 4px;">
+            <span style="font-weight: 500;">B.S. in Computer Science</span> &middot; <span style="color: #57606a;">GPA: 3.55/4.0</span>
+        </div>
+        <div style="font-size: 0.95em; color: #57606a;">
+            <strong>Honors:</strong> Presidential Scholarship (Full-Tuition Merit Award &middot; $108,000)
         </div>
     </div>
 </div>
@@ -146,13 +149,6 @@ title: Academic Portfolio
 ## Awards & Honors
 
 <ul style="line-height: 1.7; padding-left: 20px; color: #24292f; margin-bottom: 35px;">
-    <!-- Bullet 1 -->
-    <li style="margin-bottom: 8px;">
-        <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;">
-            <span><strong>Presidential Scholarship</strong> &middot; Full-Tuition Merit Award ($108,000)</span>
-            <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2020 &ndash; 2024</span>
-        </div>
-    </li>
     <!-- Bullet 2 -->
     <li style="margin-bottom: 8px;">
         <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;">
