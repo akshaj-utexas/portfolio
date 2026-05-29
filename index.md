@@ -39,9 +39,11 @@ I am a graduate researcher focused on non-invasive brain-computer interfaces and
 
 ## Education
 
+## Education
+
 <!-- UT AUSTIN ENTRY -->
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 15px; margin-bottom: 25px;">
-    <div style="flex: 1; min-width: 280px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 30px; margin-bottom: 25px;">
+    <div style="min-width: 280px; max-width: 500px;">
         <strong>2024–2026: M.S. in Information Science, The University of Texas at Austin</strong> (GPA: 3.7/4.0)<br>
         Specialization: Applied Machine Learning and Deep Learning<br>
         Thesis Advisors: Dr. Abhijit Mishra, Dr. Shounak Roychowdhury
@@ -52,8 +54,8 @@ I am a graduate researcher focused on non-invasive brain-computer interfaces and
 </div>
 
 <!-- UT ARLINGTON ENTRY -->
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 15px; margin-bottom: 25px;">
-    <div style="flex: 1; min-width: 280px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 30px; margin-bottom: 25px;">
+    <div style="min-width: 280px; max-width: 500px;">
         <strong>2020–2024: B.S. in Computer Science, The University of Texas at Arlington</strong> (GPA: 3.55/4.0)
     </div>
     <div style="flex-shrink: 0;">
