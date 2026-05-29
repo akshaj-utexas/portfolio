@@ -56,8 +56,8 @@ title: Akshaj Murhekar - Academic Portfolio
 ## Education
 
 <!-- UT AUSTIN ENTRY -->
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start; gap: 24px; margin-bottom: 30px;">
-    <div style="flex-shrink: 0; width: 130px; display: flex; justify-content: flex-start; padding-top: 4px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 24px; margin-bottom: 30px;">
+    <div style="flex-shrink: 0; width: 130px; display: flex; justify-content: flex-start;">
         <img src="assets/ut-austin.svg" alt="UT Austin Logo" style="width: 120px; height: auto;">
     </div>
     <div style="flex: 1; min-width: 280px; line-height: 1.6;">
@@ -78,8 +78,8 @@ title: Akshaj Murhekar - Academic Portfolio
 </div>
 
 <!-- UT ARLINGTON ENTRY -->
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start; gap: 24px; margin-bottom: 30px;">
-    <div style="flex-shrink: 0; width: 130px; display: flex; justify-content: flex-start; padding-top: 4px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 24px; margin-bottom: 30px;">
+    <div style="flex-shrink: 0; width: 130px; display: flex; justify-content: flex-start;">
         <img src="assets/ut-arlington.svg" alt="UT Arlington Logo" style="width: 120px; height: auto;">
     </div>
     <div style="flex: 1; min-width: 280px; line-height: 1.6;">
