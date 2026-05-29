@@ -124,7 +124,7 @@ title: Academic Portfolio
             <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2020 &ndash; 2024</span>
         </div>
         <div style="color: #24292f; margin-bottom: 4px;">
-            <span style="font-weight: 500;">B.S. in Computer Science</span> &middot; <span style="color: #57606a;">GPA: 3.55/4.0</span>
+            <span style="font-weight: 500;">B.S. in Computer Science</span>
         </div>
         <div style="font-size: 0.95em; color: #57606a;">
             <strong>Honors:</strong> Presidential Scholarship (Full-Tuition Merit Award &middot; $108,000)
