@@ -6,6 +6,7 @@ title: Akshaj Murhekar - Academic Portfolio
 Graduate Research Assistant, UT Austin  
 PhD start: Fall 2027  
 [Google Scholar](https://scholar.google.com/citations?user=iObTPf8AAAAJ) | [LinkedIn](https://linkedin.com/in/akshaj-murhekar) | [GitHub](https://github.com/akshaj02) | [Email](mailto:akshaj.murhekar@utexas.edu)
+![Page Views](https://komarev.com/ghpvc/?username=akshaj02&label=Page%20Views)
 
 ## About Me / Bio
 I am a graduate researcher focused on non-invasive brain-computer interfaces and generative AI, with experience building privacy-preserving EEG-to-text systems, neuro-symbolic decoding pipelines, and efficient neural retrieval frameworks. My work emphasizes lightweight architectures that align neural signals with large language models while keeping sensitive data local.
