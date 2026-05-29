@@ -3,18 +3,18 @@ layout: default
 title: Akshaj Murhekar - Academic Portfolio
 ---
 
-<!-- HEADER SECTION: Tied tightly together with flex-start -->
-<div style="display: flex; flex-wrap: wrap-reverse; justify-content: flex-start; align-items: center; gap: 40px; margin-bottom: 30px;">
-    <div style="min-width: 280px;">
-        Graduate Research Assistant, UT Austin<br>
-        PhD start: Fall 2027<br><br>
-        <a href="https://scholar.google.com/citations?user=iObTPf8AAAAJ">Google Scholar</a> | 
-        <a href="https://linkedin.com/in/akshaj-murhekar">LinkedIn</a> | 
-        <a href="https://github.com/akshaj02">GitHub</a> | 
-        <a href="mailto:akshaj.murhekar@utexas.edu">Email</a>
-    </div>
+<!-- HEADER SECTION: Image on left, expanding text on right -->
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: flex-start; gap: 25px; margin-bottom: 35px;">
     <div style="flex-shrink: 0;">
-        <img src="assets/headshot.png" alt="Akshaj Murhekar" style="width: 200px; max-width: 100%; border-radius: 8px;">
+        <img src="assets/headshot.png" alt="Akshaj Murhekar" style="width: 220px; max-width: 100%; border-radius: 8px;">
+    </div>
+    <div style="flex: 1; min-width: 280px; padding-top: 5px;">
+        <span style="font-size: 1.15em; font-weight: 500; color: #24292e;">Graduate Research Assistant, UT Austin</span><br>
+        <span style="color: #586069;">PhD start: Fall 2027</span><br><br>
+        <a href="https://scholar.google.com/citations?user=iObTPf8AAAAJ" style="font-weight: 500;">Google Scholar</a> | 
+        <a href="https://linkedin.com/in/akshaj-murhekar" style="font-weight: 500;">LinkedIn</a> | 
+        <a href="https://github.com/akshaj02" style="font-weight: 500;">GitHub</a> | 
+        <a href="mailto:akshaj.murhekar@utexas.edu" style="font-weight: 500;">Email</a>
     </div>
 </div>
 
@@ -39,27 +39,25 @@ I am a graduate researcher focused on non-invasive brain-computer interfaces and
 
 ## Education
 
-## Education
-
 <!-- UT AUSTIN ENTRY -->
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 30px; margin-bottom: 25px;">
-    <div style="min-width: 280px; max-width: 500px;">
-        <strong>2024–2026: M.S. in Information Science, The University of Texas at Austin</strong> (GPA: 3.7/4.0)<br>
-        Specialization: Applied Machine Learning and Deep Learning<br>
-        Thesis Advisors: Dr. Abhijit Mishra, Dr. Shounak Roychowdhury
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 20px; margin-bottom: 25px;">
+    <div style="flex-shrink: 0; width: 80px; display: flex; justify-content: center;">
+        <img src="assets/ut-austin.svg" alt="UT Austin Logo" style="width: 70px; max-height: 70px;">
     </div>
-    <div style="flex-shrink: 0;">
-        <img src="assets/ut-austin.svg" alt="UT Austin Logo" style="width: 130px;">
+    <div style="flex: 1; min-width: 280px;">
+        <strong>2024–2026: M.S. in Information Science, The University of Texas at Austin</strong> (GPA: 3.7/4.0)<br>
+        <span style="color: #586069;">Specialization: Applied Machine Learning and Deep Learning<br>
+        Thesis Advisors: Dr. Abhijit Mishra, Dr. Shounak Roychowdhury</span>
     </div>
 </div>
 
 <!-- UT ARLINGTON ENTRY -->
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 30px; margin-bottom: 25px;">
-    <div style="min-width: 280px; max-width: 500px;">
-        <strong>2020–2024: B.S. in Computer Science, The University of Texas at Arlington</strong> (GPA: 3.55/4.0)
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 20px; margin-bottom: 25px;">
+    <div style="flex-shrink: 0; width: 80px; display: flex; justify-content: center;">
+        <img src="assets/ut-arlington.svg" alt="UT Arlington Logo" style="width: 70px; max-height: 70px;">
     </div>
-    <div style="flex-shrink: 0;">
-        <img src="assets/ut-arlington.svg" alt="UT Arlington Logo" style="width: 130px;">
+    <div style="flex: 1; min-width: 280px;">
+        <strong>2020–2024: B.S. in Computer Science, The University of Texas at Arlington</strong> (GPA: 3.55/4.0)
     </div>
 </div>
 
