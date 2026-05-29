@@ -3,9 +3,9 @@ layout: default
 title: Akshaj Murhekar - Academic Portfolio
 ---
 
-<!-- HEADER SECTION: Fully responsive Flexbox -->
-<div style="display: flex; flex-wrap: wrap-reverse; justify-content: space-between; align-items: center; gap: 20px; margin-bottom: 30px;">
-    <div style="flex: 1; min-width: 280px;">
+<!-- HEADER SECTION: Tied tightly together with flex-start -->
+<div style="display: flex; flex-wrap: wrap-reverse; justify-content: flex-start; align-items: center; gap: 40px; margin-bottom: 30px;">
+    <div style="min-width: 280px;">
         Graduate Research Assistant, UT Austin<br>
         PhD start: Fall 2027<br><br>
         <a href="https://scholar.google.com/citations?user=iObTPf8AAAAJ">Google Scholar</a> | 
