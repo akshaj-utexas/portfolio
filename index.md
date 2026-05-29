@@ -4,12 +4,12 @@ title: Academic Portfolio
 ---
 
 <script>
-    // Dynamically injects the UT Longhorn icon into the document head
+    // Dynamically injects your local UT favicon into the document head
     (function() {
         var link = document.createElement('link');
-        link.type = 'image/png';
+        link.type = 'image/svg+xml';
         link.rel = 'icon';
-        link.href = 'https://images.utexas.edu/branding/images/longhorn-icon.png';
+        link.href = 'assets/longhorn-icon.svg';
         document.getElementsByTagName('head')[0].appendChild(link);
     })();
 </script>
