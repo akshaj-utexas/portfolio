@@ -99,13 +99,16 @@ title: Academic Portfolio
             <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2024 &ndash; 2026</span>
         </div>
         <div style="color: #24292f; margin-bottom: 6px;">
-            <span style="font-weight: 500;">M.S. in Information Science</span>
+            <span style="font-weight: 500;">M.S. in Information Science (Thesis Track)</span>
         </div>
-        <div style="font-size: 0.95em; color: #57606a;">
+        <div style="font-size: 0.95em; color: #57606a; margin-bottom: 2px;">
             <strong>Specialization:</strong> Applied Machine Learning and Deep Learning
         </div>
         <div style="font-size: 0.95em; color: #57606a;">
-            <strong>Thesis Advisors:</strong> <a href="https://abhijitmishra.github.io/" target="_blank">Dr. Abhijit Mishra</a>, <a href="https://ischool.utexas.edu/profiles/shounak-roychowdhury" target="_blank">Dr. Shounak Roychowdhury</a>
+            <strong>Research Committee & Mentors:</strong> 
+            <a href="https://abhijitmishra.github.io/" target="_blank">Dr. Abhijit Mishra</a>, 
+            <a href="https://ischool.utexas.edu/profiles/shounak-roychowdhury" target="_blank">Dr. Shounak Roychowdhury</a>, 
+            <a href="https://jacekg.ischool.utexas.edu" target="_blank">Dr. Jacek Gwizdka</a>
         </div>
     </div>
 </div>
