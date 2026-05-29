@@ -4,6 +4,7 @@ title: Akshaj Murhekar - Academic Portfolio
 ---
 
 <!-- INTRO BLOCK: Headshot centered vertically with the text column -->
+<!-- INTRO BLOCK: Headshot centered vertically with the text column -->
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 30px; margin-bottom: 35px;">
     <!-- Headshot Column -->
     <div style="flex-shrink: 0;">
@@ -12,19 +13,18 @@ title: Akshaj Murhekar - Academic Portfolio
     
     <!-- Content Column that expands to fill the right side -->
     <div style="flex: 1; min-width: 280px; line-height: 1.6;">
-        <span style="font-size: 1.25em; font-weight: 600; color: #24292f;">M.S. in Information Science, UT Austin</span><br>
-        <span style="color: #57606a; font-weight: 500;">Specializing in Applied Machine Learning & Deep Learning</span>
+        <span style="font-size: 1.3em; font-weight: 600; color: #24292f;">Graduate Research Assistant, UT Austin</span>
         
-        <div style="margin-top: 12px; margin-bottom: 18px;">
+        <div style="margin-top: 8px; margin-bottom: 16px;">
             <a href="https://scholar.google.com/citations?user=iObTPf8AAAAJ" style="font-weight: 500;">Google Scholar</a> &middot; 
             <a href="https://linkedin.com/in/akshaj-murhekar" style="font-weight: 500;">LinkedIn</a> &middot; 
             <a href="https://github.com/akshaj02" style="font-weight: 500;">GitHub</a> &middot; 
             <a href="mailto:akshaj.murhekar@utexas.edu" style="font-weight: 500;">Email</a>
         </div>
         
-        <!-- Bio reframed around core NLP and Language Modeling -->
+        <!-- Clean, human-readable bio -->
         <p style="margin: 0; color: #24292f;">
-            I am an NLP researcher focused on language modeling, representation learning, and multimodal architectures. During my time as an M.S. student at UT Austin, I worked with Dr. Abhijit Mishra on challenging problems at the intersection of language models and neural signal processing. My research utilized electroencephalography (EEG) signals as a complex sequence alignment modality, resulting in privacy-preserving neuro-symbolic decoding pipelines and efficient retrieval frameworks that translate brain activity into generative text.
+            I am a graduate researcher at UT Austin with a core focus on language modeling, representation learning, and multimodal deep learning. During my time as an M.S. student, I worked with Dr. Abhijit Mishra on challenging problems at the intersection of language models and neural signal processing. My research focused on leveraging the immense in-context learning capabilities of frozen backbone LLMs. Specifically, I developed privacy-preserving neuro-symbolic decoding pipelines and efficient retrieval frameworks designed to bridge the gap between brain activity and text, translating electroencephalography (EEG) signals directly into natural language.
         </p>
     </div>
 </div>
