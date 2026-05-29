@@ -30,12 +30,13 @@ title: Akshaj Murhekar - Academic Portfolio
 </div>
 
 ## Research Interests
-- Human-centered machine learning
-- Neural decoding (EEG-to-text)
-- Neuro-symbolic learning
-- Sparse and efficient model architectures
-- Multimodal deep learning
-- Privacy-preserving BCI pipelines
+
+<ul style="line-height: 1.8; padding-left: 20px; color: #24292f; margin-bottom: 35px;">
+    <li style="margin-bottom: 4px;"><strong>Multimodal Deep Learning</strong></li>
+    <li style="margin-bottom: 4px;"><strong>Neuro-Symbolic Learning</strong></li>
+    <li style="margin-bottom: 4px;"><strong>Sparse & Efficient Architectures</strong></li>
+    <li style="margin-bottom: 4px;"><strong>LLM Evaluation & Behavioral Alignment</strong></li>
+</ul>
 
 ## Publications
 
