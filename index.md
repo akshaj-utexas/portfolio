@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Akshaj Murhekar - Academic Portfolio
+title_override: true
 ---
 
 <!-- INTRO BLOCK: Headshot centered vertically with the text column -->
