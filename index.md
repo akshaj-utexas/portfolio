@@ -66,7 +66,7 @@ title: Akshaj Murhekar - Academic Portfolio
             <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2024 &ndash; 2026</span>
         </div>
         <div style="color: #24292f; margin-bottom: 6px;">
-            <span style="font-weight: 500;">M.S. in Information Science</span> &middot; <span style="color: #57606a;">GPA: 3.7/4.0</span>
+            <span style="font-weight: 500;">M.S. in Information Science</span>
         </div>
         <div style="font-size: 0.95em; color: #57606a;">
             <strong>Specialization:</strong> Applied Machine Learning and Deep Learning
@@ -88,7 +88,7 @@ title: Akshaj Murhekar - Academic Portfolio
             <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2020 &ndash; 2024</span>
         </div>
         <div style="color: #24292f;">
-            <span style="font-weight: 500;">B.S. in Computer Science</span> &middot; <span style="color: #57606a;">GPA: 3.55/4.0</span>
+            <span style="font-weight: 500;">B.S. in Computer Science</span>
         </div>
     </div>
 </div>
