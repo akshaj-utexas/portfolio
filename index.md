@@ -129,6 +129,9 @@ title: Academic Portfolio
         <div style="font-size: 0.95em; color: #57606a;">
             <strong>Honors:</strong> Presidential Scholarship (Full-Tuition Merit Award &middot; $108,000)
         </div>
+        <div style="font-size: 0.95em; color: #57606a;">
+            <strong>Senior Design:</strong> Autonomous Medical Supply Cart (NIH-Funded &middot; Presented at <a href="https://2023bmesannual.eventscribe.net/fsPopup.asp?PresenterID=1526288&mode=posterPresenterInfo" target="_blank" style="color: #0366d6; text-decoration: none; font-weight: 500;">BMES 2023</a>)
+        </div>
     </div>
 </div>
 
