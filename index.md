@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Akshaj Murhekar - Academic Portfolio
-title_override: true
+title: Academic Portfolio
 ---
 
 <!-- INTRO BLOCK: Headshot centered vertically with the text column -->
@@ -150,7 +149,7 @@ title_override: true
     <!-- Bullet 1 -->
     <li style="margin-bottom: 8px;">
         <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;">
-            <span><strong>Presidential Scholarship</strong> &middot; Full-Tuition Merit Award (\$108,000)</span>
+            <span><strong>Presidential Scholarship</strong> &middot; Full-Tuition Merit Award ($108,000)</span>
             <span style="font-size: 0.95em; color: #57606a; font-weight: 500;">2020 &ndash; 2024</span>
         </div>
     </li>
