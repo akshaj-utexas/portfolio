@@ -105,7 +105,7 @@ title: Academic Portfolio
             <strong>Specialization:</strong> Applied Machine Learning and Deep Learning
         </div>
         <div style="font-size: 0.95em; color: #57606a;">
-            <strong>Research Committee & Mentors:</strong> 
+            <strong>Committee:</strong> 
             <a href="https://abhijitmishra.github.io/" target="_blank">Dr. Abhijit Mishra</a>, 
             <a href="https://ischool.utexas.edu/profiles/shounak-roychowdhury" target="_blank">Dr. Shounak Roychowdhury</a>, 
             <a href="https://jacekg.ischool.utexas.edu" target="_blank">Dr. Jacek Gwizdka</a>
