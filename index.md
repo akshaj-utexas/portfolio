@@ -3,9 +3,17 @@ layout: default
 title: Academic Portfolio
 ---
 
-<link rel="icon" type="image/png" href="https://images.utexas.edu/branding/images/longhorn-icon.png">
+<script>
+    // Dynamically injects the UT Longhorn icon into the document head
+    (function() {
+        var link = document.createElement('link');
+        link.type = 'image/png';
+        link.rel = 'icon';
+        link.href = 'https://images.utexas.edu/branding/images/longhorn-icon.png';
+        document.getElementsByTagName('head')[0].appendChild(link);
+    })();
+</script>
 
-<!-- INTRO BLOCK: Headshot centered vertically with the text column -->
 <!-- INTRO BLOCK: Headshot centered vertically with the text column -->
 <div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center; gap: 30px; margin-bottom: 35px;">
     <!-- Headshot Column -->
