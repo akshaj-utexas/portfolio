@@ -65,7 +65,7 @@ title: Akshaj Murhekar - Academic Portfolio
 
     <!-- PUBLICATION 2 -->
     <li style="margin-bottom: 28px; line-height: 1.6; color: #24292f;">
-        <div style="font-size: 1.1em; font-weight: 600; color: #0366d6; margin-bottom: 4px;">
+        <div style="font-size: 1.1em; font-weight: 600; color: #24292f; margin-bottom: 4px;">
             SENSE: Efficient EEG-to-Text via Privacy-Preserving Semantic Retrieval
         </div>
         <div style="font-size: 0.95em; color: #24292f; margin-bottom: 8px;">
