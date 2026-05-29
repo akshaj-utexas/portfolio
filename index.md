@@ -24,7 +24,7 @@ title: Akshaj Murhekar - Academic Portfolio
         
         <!-- Bio reframed around core NLP and Language Modeling -->
         <p style="margin: 0; color: #24292f;">
-            I am an NLP researcher focused on language modeling, representation learning, and multimodal deep learning. My work explores how frontier large language models can align with, decode, and retrieve information from complex, non-textual sequences. As a graduate researcher at UT Austin, I have investigated these core sequence-alignment challenges within the non-invasive brain-computer interface domain—building privacy-preserving neuro-symbolic and retrieval-augmented pipelines that bridge neural features with generative text space. 
+            I am an NLP researcher focused on language modeling, representation learning, and multimodal architectures. During my time as an M.S. student at UT Austin, I worked with Dr. Abhijit Mishra on challenging problems at the intersection of language models and neural signal processing. My research utilized electroencephalography (EEG) signals as a complex sequence alignment modality, resulting in privacy-preserving neuro-symbolic decoding pipelines and efficient retrieval frameworks that translate brain activity into generative text.
         </p>
     </div>
 </div>
